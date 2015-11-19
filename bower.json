@@ -1,0 +1,17 @@
+{
+  "name": "242Studios Starter Package",
+  "homepage": "https://242studios.com/",
+  "authors": [
+    "Chris <chris@242studios.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "compass-breakpoint": "breakpoint-sass#~2.6.1"
+  },
+  "dependencies": {
+    "mixitup": "~2.1.11",
+    "font-awesome": "~4.4.0",
+    "normalize-css": "normalize.css#~3.0.3"
+  }
+}
