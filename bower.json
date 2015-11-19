@@ -13,5 +13,26 @@
     "mixitup": "~2.1.11",
     "font-awesome": "~4.4.0",
     "normalize-css": "normalize.css#~3.0.3"
+},
+"overrides": {
+    "sanitize-css": {
+      "main": [
+        "sanitize.scss"
+      ]
+    },
+    "open-sans-fontface": {
+      "main": [
+        "./open-sans.scss",
+        "./fonts/**/*"
+      ]
+    },
+    "font-awesome": {
+      "main": [
+        "fonts/**/*",
+        "less/font-awesome.less",
+        "scss/font-awesome.scss"
+      ]
+    }
   }
+
 }
